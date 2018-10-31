@@ -5,3 +5,4 @@
 ### 1.1 Comandos
 
 * git clone <LINK-DO-REPOSITÓRIO>
+* git add <arquivos...>
