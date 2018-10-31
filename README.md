@@ -6,3 +6,6 @@
 
 * git clone <LINK-DO-REPOSITÓRIO>
 * git add <arquivos...>
+* git commit -m
+* git push
+* git status
