@@ -9,3 +9,5 @@
 * git commit -m
 * git push
 * git status
+
+## 2. Git intermediário
