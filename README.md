@@ -10,11 +10,4 @@
 * git push
 * git status
 
-## 2. Git intermediário
-
-## 3. Phyton
-
-## 4. Java
-
-## 4. C
-
+## 2. C
