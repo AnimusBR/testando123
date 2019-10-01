@@ -11,3 +11,9 @@
 * git status
 
 ## 2. C
+
+int main(void)
+{
+    printf("Hello, world!\n");
+    return 0;
+}
