@@ -12,6 +12,7 @@
 
 ## 2. C
 
+### 2.1 Básico
 int main(void)
 {
     printf("Hello, world!\n");
